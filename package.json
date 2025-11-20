@@ -1,0 +1,13 @@
+{
+  "name": "radio-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.0",
+    "ytdl-core": "^4.11.5",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
+
