@@ -1,13 +1,17 @@
 {
   "name": "radio-app",
   "version": "1.0.0",
+  "description": "Discord music bot",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "discord.js": "^14.14.1",
-    "@discordjs/voice": "^0.16.0",
-    "ytdl-core": "^4.11.5",
+    "discord.js": "^14.15.0",
+    "@discordjs/voice": "^0.15.0",
+    "@discordjs/opus": "^0.7.0",
+    "ytdl-core": "^4.11.0",
     "node-fetch": "^3.3.2",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.0.0"
   }
 }
-
