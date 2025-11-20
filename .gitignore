@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Entorno / secretos
+.env
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Replit (si usas)
+.replit
